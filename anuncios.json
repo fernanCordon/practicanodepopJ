@@ -1,0 +1,60 @@
+{
+  "anuncios": [
+    {
+      "nombre": "Bicicleta",
+      "venta": true,
+      "precio": 230.15,
+      "foto": "bici.png",
+      "tags": [ "lifestyle", "motor"]
+    },
+    {
+      "nombre": "iPhone 3GS",
+      "venta": false,
+      "precio": 50.00,
+      "foto": "iphone3.png",
+      "tags": [ "lifestyle", "mobile"]
+    },
+    {
+
+      "nombre" : "Fiat",
+      "venta" : false,
+      "precio" : 15800.00,
+      "foto" : "fiat500l.png",
+      "tags" : ["motor", "work"]
+    },
+    {
+
+      "nombre" : "Acordeón",
+      "venta" : true,
+      "precio" : 1200.00,
+      "foto" : "acordeon.png",
+      "tags" : ["lifestyle"]
+    },
+    {
+
+      "nombre" : "iPhone 5S",
+      "venta" : true,
+      "precio" : 100.00,
+      "foto" : "iphone5.png",
+      "tags" : ["mobile", "work"]
+    },
+    {
+
+      "nombre" : "maletín",
+      "venta" : false,
+      "precio" : 40.00,
+      "foto" : "maletin.png",
+      "tags" : ["work"]
+    },
+    {
+
+      "nombre" : "paraguas",
+      "venta" : true,
+      "precio" : 7.00,
+      "foto" : "paraguas.png",
+      "tags" : ["lifestyle"]
+    }
+
+  ]
+}
+
