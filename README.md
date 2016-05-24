@@ -1,4 +1,23 @@
 
+# Práctica DevOps
+
+####Entrando con DNS:
+####[http://ec2-52-91-107-213.compute-1.amazonaws.com/](http://ec2-52-91-107-213.compute-1.amazonaws.com/)
+
+####Fotografías: 
+
+####[http://ec2-52-91-107-213.compute-1.amazonaws.com/](http://ec2-52-91-107-213.compute-1.amazonaws.com/)
+
+
+
+####Entrando por la IP: 
+
+####[http://ec2-52-91-107-213.compute-1.amazonaws.com/](http://ec2-52-91-107-213.compute-1.amazonaws.com/)
+
+-
+
+
+
 # NodePop
 
 API para aplicaciones iOS y Android.
