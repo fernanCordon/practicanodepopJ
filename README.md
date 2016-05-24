@@ -6,13 +6,18 @@
 
 ####Fotografías: 
 
-####[http://ec2-52-91-107-213.compute-1.amazonaws.com/](http://ec2-52-91-107-213.compute-1.amazonaws.com/)
+#####[http://ec2-52-91-107-213.compute-1.amazonaws.com/images/anuncios/paraguas.png](http://ec2-52-91-107-213.compute-1.amazonaws.com//images/anuncios/paraguas.png)
 
+#####[http://ec2-52-91-107-213.compute-1.amazonaws.com/images/anuncios/acordeon.png](http://ec2-52-91-107-213.compute-1.amazonaws.com//images/anuncios/acordeon.png)
+
+#####[http://ec2-52-91-107-213.compute-1.amazonaws.com/images/anuncios/bici.png](http://ec2-52-91-107-213.compute-1.amazonaws.com//images/anuncios/bici.png)
+
+#####[http://ec2-52-91-107-213.compute-1.amazonaws.com/images/anuncios/fiat500l.png](http://ec2-52-91-107-213.compute-1.amazonaws.com//images/anuncios/fiat500l.png)
 
 
 ####Entrando por la IP: 
 
-####[http://ec2-52-91-107-213.compute-1.amazonaws.com/](http://ec2-52-91-107-213.compute-1.amazonaws.com/)
+####[http://52.91.255.167/](http://52.91.255.167/)
 
 -
 
@@ -121,16 +126,25 @@ idioma de las peticiones estableciendo x-lang en español, IEX-lang: es.
 
 **Escribir en la Query**:
 
-start: {int} inicio de los registros
-limit: {int} final de los registros
+start: {int} inicio de los registros.
+
+limit: {int} final de los registros.
+
 sort: {string} ordenar por...
-includeTotal: {bool} incluir o no el número total de artículos
-tag: {string} Filtrar mediante el tag
-venta: {bool} Extraer los que se compran o se venden
+
+includeTotal: {bool} incluir o no el número total de artículos.
+
+tag: {string} Filtrar mediante el tag.
+
+venta: {bool} Extraer los que se compran o se venden.
+
 precio: {range} filtrar por rango de precio, ejemplo 10-90, -90, 10-
+
 nombre: {string} Se filtran los nombres por el comienzo de sus letras
 
-Ejemplo de búsquedas: ?start=0&limit=2&sort=precio&includeTotal=true&tag=mobile&venta=true&precio=-90&nombre=bi
+Ejemplo de búsquedas: 
+
+anuncios?start=0&limit=2&sort=precio&includeTotal=true&tag=mobile&venta=true&precio=-90&nombre=bi
 
 **Resultado:**
 
